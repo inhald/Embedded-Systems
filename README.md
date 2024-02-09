@@ -1,4 +1,5 @@
-#Embedded Systems Design I written in C++ using Keil IDE
+# Embedded Systems Design I 
+Written in C++ using Keil IDE
 ## BlinkerISR: A Simple FSM using Interrupts
 Implementation of an FSM cycling through different blinking states for leds. 
 ## Reaction-Time Tester
