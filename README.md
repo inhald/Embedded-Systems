@@ -18,7 +18,7 @@ Features:
 2. Displays time (HH:MM:SS) on LCD
 3. Additional external push buttons are used to set time and date
 
-To use this code, [BSP](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/BSP_DISCO_F429ZI/), and [LCD](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/LCD_DISCO_F429ZI/).
+To use this code, [BSP](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/BSP_DISCO_F429ZI/), and [LCD](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/LCD_DISCO_F429ZI/) must be added to Keil Studio.
 
 [Demo](https://www.youtube.com/watch?v=vtHhaU6ryDQ)
 
