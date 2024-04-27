@@ -22,7 +22,7 @@ To use this code, [BSP](https://os.mbed.com/teams/Embedded-System-Design-with-AR
 
 [Demo](https://www.youtube.com/watch?v=vtHhaU6ryDQ)
 
-##PWM-Fan
+## PWM-Fan
 A Pulsewidth Modulation controlled fan triggered by temperature falling below a specified threshold by the user.
 
 Features:
@@ -34,7 +34,7 @@ Features:
 To use this code, [BSP](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/BSP_DISCO_F429ZI/), [LCD](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/LCD_DISCO_F429ZI/) and [Touchscreen] (https://os.mbed.com/teams/ST/code/TS_DISCO_F429ZI/file/4f8b6df8e235/TS_DISCO_F429ZI.h/) must be added to Keil Studio.
 
 
-##Open-Ended Midterm Project
+## Open-Ended Midterm Project - Self Balancing Robot
 Task: Create a cybernetic system of your own design which
 senses its environment and produces responsive outputs/actions.
 
