@@ -31,7 +31,7 @@ Features:
 3. When temperature is above the threshold, fan is activated and cools the temperature sensor.
 
 
-To use this code, [BSP](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/BSP_DISCO_F429ZI/), [LCD](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/LCD_DISCO_F429ZI/) and [Touchscreen] (https://os.mbed.com/teams/ST/code/TS_DISCO_F429ZI/file/4f8b6df8e235/TS_DISCO_F429ZI.h/) must be added to Keil Studio.
+To use this code, [BSP](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/BSP_DISCO_F429ZI/), [LCD](https://os.mbed.com/teams/Embedded-System-Design-with-ARM-Cortex-M/code/LCD_DISCO_F429ZI/) and [Touchscreen](https://os.mbed.com/teams/ST/code/TS_DISCO_F429ZI/file/4f8b6df8e235/TS_DISCO_F429ZI.h/) must be added to Keil Studio.
 
 
 ## Open-Ended Midterm Project - Self Balancing Robot
